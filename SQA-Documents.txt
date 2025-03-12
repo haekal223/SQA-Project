@@ -1,0 +1,7 @@
+TestPlan.md untuk Rencana Pengujian.
+
+TestCases.md untuk Daftar Kasus Uji.
+
+BugReports.md untuk Laporan Bug.
+
+QualityMetrics.md untuk Metrik Kualitas Software.
